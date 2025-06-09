@@ -1,8 +1,8 @@
 # Hi there, I'm Rakesh Pole! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <p>
-  <img src="https://img.shields.io/badge/Lives-USA-blue" alt="Lives in USA" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" alt="Languages: English & Telugu" />
+  <img src="https://img.shields.io/badge/Lives-India-blue" alt="Lives in India" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Telugu-brightgreen" alt="Languages: English & Telugu" />
 </p>
 
 ## About Me
