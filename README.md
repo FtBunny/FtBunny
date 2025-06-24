@@ -112,7 +112,7 @@ Hello! I'm **Rakesh Pole**, a passionate **Full Stack Developer**, **Blockchain 
 
 ## 🌟 Leadership & Impact
 
-- 🌐 **PR LEAD** of Student Association council MRDU
+- 🌐 **PR LEAD** of Student Association council MRDU 
 - 📷 **PHOTOGRAPHY CLUB** Lead Coordinator MRDU 
 
 
