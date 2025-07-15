@@ -86,7 +86,7 @@ Hello! I'm **Rakesh Pole**, a passionate **Full Stack Developer**, **Blockchain 
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /><br>
+      <img src="https://skillicons.dev/icons?i=react,nodejs" /><br>
       <strong>Full Stack Development</strong><br>
       <em>Building scalable web applications</em>
     </td>
