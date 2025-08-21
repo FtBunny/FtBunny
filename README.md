@@ -73,31 +73,6 @@ Hello! I'm **Rakesh Pole**, a passionate **Full Stack Developer**, **Blockchain 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react,nodejs" /><br>
-      <strong>Full Stack Development</strong><br>
-      <em>Building scalable web applications</em>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker" /><br>
-      <strong>Cloud Computing</strong><br>
-      <em>Infrastructure optimization & CI/CD</em>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br>
-      <strong>AI/ML Engineering</strong><br>
-      <em>Machine learning models & data analysis</em>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ## 🌟 Leadership & Impact
