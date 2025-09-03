@@ -16,7 +16,7 @@ Hello! I'm **Rakesh Pole**, a passionate **Full Stack Developer**, **Blockchain 
 - 🎨 I'm improving my designer skills more responsive and 3D 
 - 🌱 I'm continuously learning new technologies in web development, blockchain, and artificial intelligence  
 - 👯 I'm looking to collaborate with like-minded developers and researchers  
-- 💬 Ask me about React, Next.js, Node.js, Blockchain, AI, Data Structures, Algorithms, and more  
+- 💬 Ask me about React, Node.js, Blockchain, AI, Data Structures, Algorithms, and more  
 - 😄 Pronouns: His/He
 
 
